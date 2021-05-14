@@ -1,0 +1,2 @@
+ 1.1  1.1  11965 /usr/libexec/gnome-terminal-server
+ 1.2  1.1  11965 /usr/libexec/gnome-terminal-server
